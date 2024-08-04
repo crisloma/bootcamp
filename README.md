@@ -1,1 +1,3 @@
 # bootcamp
+
+Ejercicios para practicar
